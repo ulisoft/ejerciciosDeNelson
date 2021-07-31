@@ -7,5 +7,6 @@ function CelsiusToFarenheit(GradoCelsius) {
 	console.log(resultado + "°C");
 }
 
+cambio para probar
 
 
